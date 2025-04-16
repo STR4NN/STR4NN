@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">I'm Gustavo</h1>
+<h3 align="center">Brazilian BackEnd<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=str4nn&label=Profile%20views&color=0e75b6&style=flat" alt="str4nn" /> </p>
 
@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Html, Css, JavaScript and Digital Design**
+- 🌱 I’m currently learning **Java, Spring Boot & PHP**
 
-- 🤝 I’m looking for help with **Learn JavaScript**
+- 🤝 I’m looking for help with **Docker*
 
 - 📫 How to reach me **gustavo.souza0911@gmail.com**
-
-- ⚡ Fun fact **I think I am responsible and sociable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
